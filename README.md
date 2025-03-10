@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Vincent Nguyen
+## Hello 👋 My name is Vincent Nguyen
 ![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinny-nguyen&show_icons=true&theme=tokyonight)
 <!--
 **vinny-nguyen/vinny-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
