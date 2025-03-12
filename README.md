@@ -1,5 +1,5 @@
 ## Hello 👋 My name is Vincent Nguyen
-![Vincent's GitHub stats](https://readmestats.999857.xyz/api?username=vinny-nguyen&show_icons=true&theme=tokyonight)
+![Vincent Nguyen's GitHub stats](https://readmestats.999857.xyz/api?username=vinny-nguyen&show_icons=true&theme=tokyonight)
 <!--
 **vinny-nguyen/vinny-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
