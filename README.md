@@ -1,5 +1,13 @@
 ## Hello 👋 My name is Vincent Nguyen
 ![Vincent Nguyen's GitHub stats](https://readmestats.999857.xyz/api?username=vinny-nguyen&show_icons=true&theme=tokyonight)
+
+Outside of school, I like to:
+- Play sports 🏉🏈⚽
+- Play music & singing 🎹🎸
+- Work out 🏋️🏋️‍♂️
+- Take pictures 📸
+- Fish 🎣
+- Mountain bike 🚵‍♀️
 <!--
 **vinny-nguyen/vinny-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
