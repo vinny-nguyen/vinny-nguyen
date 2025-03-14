@@ -4,7 +4,7 @@
 Outside of school, I like to:
 - Play sports 🏉🏈⚽
 - Play music & sing 🎹🎸
-- Work out 🏋️🏋️‍♂️
+- Work out 🏋
 - Take pictures 📸
 - Fish 🎣
 - Mountain bike 🚵‍♀️
