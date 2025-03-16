@@ -1,4 +1,4 @@
-## Hello 👋 My name is Vincent Nguyen, and I'm a Computer Science student at the University of Waterloo
+## Hello 👋 My name is Vincent Nguyen 👍
 ![Vincent Nguyen's GitHub stats](https://readmestats.999857.xyz/api?username=vinny-nguyen&show_icons=true&theme=tokyonight)
 
 Outside of school, I like to:
