@@ -6,7 +6,7 @@ Outside of school, I like to:
 - Play music & sing 🎹🎸
 - Take pictures 📸
 - Fish 🎣
-- Mountain bike 🚵‍♀️
+- Mountain bike 🚵
 <!--
 **vinny-nguyen/vinny-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
