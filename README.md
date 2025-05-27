@@ -1,11 +1,11 @@
 ## Hi there, I'm Vincent Nguyen! 👋
 ![Vincent Nguyen's GitHub stats](https://readmestats.999857.xyz/api?username=vinny-nguyen&show_icons=true&theme=tokyonight)
 
-Outside of school, I like to:
-- Play sports 🏉🏋️
-- Play music & sing 🎹🎸
-- Shoot pictures 📸
-- Bike 🚵
+Outside of school and programming, you'll probably find me:
+- Playing sports 🏉🏋️
+- Playing music & sing 🎹🎸
+- Shooting pictures 📸
+- Biking around Waterloo 🚵
 <!--
 **vinny-nguyen/vinny-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
