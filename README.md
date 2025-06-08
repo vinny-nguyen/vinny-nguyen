@@ -1,5 +1,6 @@
 ## Hi there, I'm Vincent Nguyen! 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinny-nguyen)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinny-nguyen&langs_count=8)
+
 Outside of school and programming, you'll probably find me:
 - Playing sports 🏉🏋️
 - Playing music & sing 🎹🎸
