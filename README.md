@@ -1,5 +1,5 @@
 ## Hi there, I'm Vincent Nguyen! 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinny-nguyen&layout=compact&theme=transparent&bg_color=0000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinny-nguyen&layout=compact&theme=transparent&bg_color=00000000)
 
 Outside of school and programming, you'll probably find me:
 - Playing sports 🏉🏋️
