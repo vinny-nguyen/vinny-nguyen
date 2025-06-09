@@ -1,10 +1,10 @@
 ## Hi there, I'm Vincent Nguyen! 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinny-nguyen&layout=compact&theme=calm&show_icons=true&bg_color=00000000)
 
-Outside of school and programming, you'll probably find me:
+Outside of school and code, you'll probably find me:
 - Playing sports 🏉🏋️
-- Playing music & sing 🎹🎸
-- Shooting pictures 📸
+- Playing music 🎹🎸
+- Taking pictures 📸
 - Biking around Waterloo 🚵
 <!--
 **vinny-nguyen/vinny-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
